@@ -13,7 +13,7 @@ I'm currenty studying  Data science and AI
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugartelucas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-> "In God we trus, all others must brig data"
+> "In God we trust, all others must brig data"
 >
 > > Dr. W.E. Deming
 
